@@ -111,7 +111,7 @@ Shown below are the codes used by the group for this Face Recognition task:
 
 ![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/930c980e-925f-4535-ba80-c4c86b7a2f23)
 
-LeBron James
+⚪ LeBron James
 
 Born on December 30, 1984, in Akron, Ohio, is a renowned American basketball player celebrated for his versatile skills. Regarded as one of the most exceptional players in basketball history, he secured NBA championships with the Miami Heat (2012, 2013), Cleveland Cavaliers (2016), and the Los Angeles Lakers (2020). His career soared in 2023 as he surpassed Kareem Abdul-Jabbar's longstanding record to become the NBA's highest all-time scorer, accumulating an impressive 38,387 points.
 
@@ -119,37 +119,49 @@ Born on December 30, 1984, in Akron, Ohio, is a renowned American basketball pla
 
 ![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/8b03552f-90d9-4df9-8df8-4e9b6592b330)
 
-Barack Obama
+⚪ Barack Obama
+
+Barack Obama served as the 44th President of the United States. His journey embodies the essence of the American narrative rooted in heartland values, raised in a middle-class family, where hard work and education were the pathways to success. He strongly believed that a life of such abundance should be dedicated to serving others.
 
 📌 For face recognition of famous fast food consumers, codes with an image file name "Barack_Obama.jpg" are used to recognize faces.
 
 ![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/08724313-955c-4553-9e0a-6b211664397c)
 
-Dwyane Wade
+⚪ Dwyane Wade
+
+Dwyane Wade, a decorated NBA player with three championship titles, an Olympic Gold medal, and multiple All-Star appearances, has had a remarkable and dynamic career. He became part of the Miami HEAT after being selected as the fifth pick in the 2003 NBA Draft.
 
 📌 For face recognition of famous fast food consumers, codes with an image file name "Dwyane_Wade.jpg" are used to recognize faces.
 
 ![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/b530ab11-f989-4582-9910-1f8dc61198c4)
 
-Michael Mosley
+⚪ Michael Mosley
+
+Michael Mosley, a British TV journalist, producer, and ex-physician, has been with the BBC since 1985. He's notably recognized for hosting TV shows centered on biology and medicine, along with frequent appearances on The One Show.
 
 📌 For face recognition of famous fast food consumers, codes with an image file name "Michael_Mosley.jpg" are used to recognize faces.
 
 ![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/21d064d2-762b-4329-8a40-cd968ab53e83)
 
-Peter Andre
+⚪ Peter Andre
+
+In 1996, Andre experienced a significant breakthrough when his song 'Mysterious Girl' gained widespread success, reaching the second position in the UK Singles Chart and ultimately ranking as the sixth best-selling single of 1996 in the UK. Subsequent singles like 'I Feel You' and 'I'm Your Man' also achieved places in the UK Top 10.
 
 📌 For face recognition of famous fast food consumers, codes with an image file name "Peter_Andre.jpg" are used to recognize faces.
 
 ![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/d3a6008e-5b39-4307-819b-b7f49422ffec)
 
-Hayley Tamaddon
+⚪ Hayley Tamaddon
+
+Hayley Soraya Tamaddon, a British actress, gained recognition for her portrayals in ITV soap operas, notably as Del Dingle in Emmerdale and Andrea Beckett in Coronation Street. Her triumph came in winning the fifth season of Dancing on Ice on March 28, 2010, alongside her skating partner Daniel Whiston.
 
 📌 For face recognition of famous fast food consumers, codes with an image file name "Hayley_Tamaddon.jpg" are used to recognize faces.
 
 ![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/f5e14336-cee4-4893-9969-91d28c643c68)
 
-MP Nadine
+⚪ MP Nadine
+
+Nadine Vanessa Dorries, a British writer and ex-politician, held the position of Secretary of State for Digital, Culture, Media, and Sport from 2021 to 2022. She represented Mid Bedfordshire as a Member of Parliament from 2005 to 2023 under the Conservative Party.
 
 📌 For face recognition of famous fast food consumers, codes with an image file name "MP Nadine.jpg" are used to recognize faces.
 
@@ -158,6 +170,20 @@ MP Nadine
 # REFERENCES
 
 https://www.britannica.com/biography/LeBron-James
+
+https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/#:~:text=Barack%20Obama%20served%20as%20the,lived%20in%20service%20to%20others.
+
+https://dwyanewade.com/about-dwyane-wade/#:~:text=As%20a%20three%2Dtime%20NBA,of%20the%202003%20NBA%20Draft.
+
+https://en.wikipedia.org/wiki/Michael_Mosley_(broadcaster)
+
+https://pianity.com/peter-andre#:~:text=In%201996%2C%20Andre%20achieved%20breakthrough,UK%20Top%2010%20as%20well.
+
+https://en.wikipedia.org/wiki/Nadine_Dorries
+
+https://en.wikipedia.org/wiki/Hayley_Tamaddon
+
+
 
 
 
