@@ -173,7 +173,7 @@ Kim Nam-joon, professionally known as RM, is a prominent South Korean rapper, so
 
 📌 For face recognition of unknown fast food consumers, codes with an image file name "U5.jpg" are used to recognize faces.
 
-![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/3fb02718-8927-4d9b-bce0-d45835cda855)
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/812582fc-8463-44c3-a977-5fbc9d2255e1)
 
 📌 For face recognition of unknown fast food consumers, codes with an image file name "U6.jpg" are used to recognize faces.
 
