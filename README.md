@@ -18,25 +18,25 @@ Shown below are the codes used by the group for this Face Recognition task:
     import cv2
 
     # Creating the encoding profiles
-    face_1 = face_recognition.load_image_file("Barack_Obama.jpg")
+    face_1 = face_recognition.load_image_file("J hope.jpg")
     face_1_encoding = face_recognition.face_encodings(face_1)[0]
 
-    face_2 = face_recognition.load_image_file("Dwyane_Wade.jpg")
+    face_2 = face_recognition.load_image_file("Jimin.jpg")
     face_2_encoding = face_recognition.face_encodings(face_2)[0]
 
-    face_3 = face_recognition.load_image_file("Hayley_Tamaddon.jpg")
+    face_3 = face_recognition.load_image_file("Jin 2.jpg")
     face_3_encoding = face_recognition.face_encodings(face_3)[0]
 
-    face_4 = face_recognition.load_image_file("Lebron_James.jpg")
+    face_4 = face_recognition.load_image_file("Jung Kook.jpg")
     face_4_encoding = face_recognition.face_encodings(face_4)[0]
 
-    face_5 = face_recognition.load_image_file("MP Nadine.jpg")
+    face_5 = face_recognition.load_image_file("RM.jpg")
     face_5_encoding = face_recognition.face_encodings(face_5)[0]
 
-    face_6 = face_recognition.load_image_file("Michael_Mosley.jpg")
+    face_6 = face_recognition.load_image_file("Suga.jpg")
     face_6_encoding = face_recognition.face_encodings(face_6)[0]
 
-    face_7 = face_recognition.load_image_file("Peter_Andre.jpg")
+    face_7 = face_recognition.load_image_file("V.jpg")
     face_7_encoding = face_recognition.face_encodings(face_7)[0]
 
     known_face_encodings = [
@@ -50,23 +50,23 @@ Shown below are the codes used by the group for this Face Recognition task:
     ]
 
     known_face_names = [
-                    "Barack Obama",
-                    "Dwyane Wade",
-                    "Hayley Tamaddon",
-                    "Lebron James",
-                    "MP Nadine",
-                    "Michael Mosley",
-                    "Peter Andre",
+                    "J-hope",
+                    "Jimin",
+                    "Jin",
+                    "Jung Kook",
+                    "RM",
+                    "SUGA",
+                    "V",
     ]
     
-# 👉 RUNNING OF FACE RECOGNITION ON KNOWN FAST FOOD CONSUMER
+# 👉 RUNNING OF FACE RECOGNITION ON KNOWN FAST FOOD GROUP ENDORSER/CONSUMERS
 📌Facial recognition works by using machine learning libraries like OpenCV to create models that can identify faces. This usually starts with gathering a set of labeled images 
    featuring faces and preparing these images to ensure they have a consistent structure and highlight facial features. By utilizing this, the group can recognize known and unknown faces 
    of people consuming fast food. 
 
 📌 For face recognition of known and unknown faces our group used the code below: 
 
-    file_name = "    "
+    file_name = "   "
     unknown_image = face_recognition.load_image_file(file_name)
     unknown_image_to_draw = cv2.imread(file_name)
 
@@ -78,12 +78,12 @@ Shown below are the codes used by the group for this Face Recognition task:
 
     name = "Unknown"
 
-     face_distances = face_recognition.face_distance(known_face_encodings, face_encoding)
+    face_distances = face_recognition.face_distance(known_face_encodings, face_encoding)
     best_match_index = np.argmin(face_distances)
     if matches[best_match_index]:
     name = known_face_names[best_match_index]
     cv2.rectangle(unknown_image_to_draw, (left, top), (right, bottom),(0,255,0),3)
-    cv2.putText(unknown_image_to_draw,name, (left -80, top), cv2.FONT_HERSHEY_SIMPLEX,1,(55,255,255),2, cv2.LINE_AA)
+    cv2.putText(unknown_image_to_draw,name, (left-60, top-20), cv2.FONT_HERSHEY_SIMPLEX,1,(0,0,255),2, cv2.LINE_AA)
 
     cv2_imshow(unknown_image_to_draw)
 
@@ -193,6 +193,13 @@ Kim Nam-joon, professionally known as RM, is a prominent South Korean rapper, so
 
 📌 For face recognition of unknown fast food consumers, codes with an image file name "U10.jpg" are used to recognize faces.
 
+
+# AUTHORS
+Carandang, Harley I.
+Chavez, Marlo Jr. B.
+Endaya, Elvin Jhun C.
+
+
 # REFERENCES
 
 https://en.wikipedia.org/wiki/BTS
@@ -208,6 +215,8 @@ https://www.groovenexus.com/artist-spotlight/singer/bts-jungkook-biography/
 https://en.wikipedia.org/wiki/J-Hope
 
 https://en.wikipedia.org/wiki/RM_(musician)
+
+
 
 
 
