@@ -167,6 +167,48 @@ Nadine Vanessa Dorries, a British writer and ex-politician, held the position of
 
 # 🌭 FACE RECOGNITION OF UNKNOWN FAST FOOD CONSUMER
 
+📖 The collection of unkown individuals that shares an affinity for fast food. Through a facial recognition system, the team can't identify and label these individuals. 
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/999a40f5-3859-43f0-afc5-756999feb83f)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U1.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/833d7cfd-863d-480c-b82a-69105007274b)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U2.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/60cbc3d3-13bb-41a0-a68d-c4e339d4db84)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U3.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/7d34b105-302f-4942-8b6c-51766409aafa)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U4.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/5c6b53a5-5987-439d-be1f-14f1beea2dcf)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U5.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/3fb02718-8927-4d9b-bce0-d45835cda855)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U6.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/6e65b128-2ab1-428d-8a14-ee064271f47e)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U7.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/6fbd188b-80a1-4a58-9b39-5a782b8171f9)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U8.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/28185718-f2c9-4c80-a64f-c2ef9bcb47a5)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U9.jpg" are used to recognize faces.
+
+![image](https://github.com/ejce/GROUP_10_Finals_FaceRecognition/assets/144202790/0ca6149b-59e3-4892-a668-30c25c93a2d5)
+
+📌 For face recognition of unknown fast food consumers, codes with an image file name "U10.jpg" are used to recognize faces.
+
 # REFERENCES
 
 https://www.britannica.com/biography/LeBron-James
