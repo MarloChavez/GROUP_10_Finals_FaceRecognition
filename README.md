@@ -93,62 +93,60 @@ Shown below are the codes used by the group for this Face Recognition task:
 
 🤞 BTS, also known as the Bangtan Boys, is a South Korean band formed in 2010. Comprising Jin, Suga, J-Hope, RM, Jimin, V, and Jungkook, they actively contribute to their music creation. Initially rooted in hip-hop, their musical style has evolved to embrace various genres. Their lyrics delve into themes like mental health, the challenges faced by young people in school, growth, loss, self-acceptance, individuality, and the impact of fame. Additionally, their music draws inspiration from literature, philosophy, and psychology, while their discography includes a storyline set in an alternate universe. The members of the said Korean boy band also show an affinity to various kinds of fast food since they share photos on social media that they enjoying it.
  
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/890cdfd4-ff45-47f5-bf6a-4ea39d76cdbd)
+![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/c5f2b864-b8a5-45c9-bf01-755851af367e)
 
 
 # 🍕 FACE RECOGNITION OF FAMOUS FAST FOOD CONSUMER 
 
 📖The collection of individuals known for excelling in their respective fields and gaining widespread recognition, also share an affinity for fast food. Through a facial recognition system, the team can identify and label these individuals.
 
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/930c980e-925f-4535-ba80-c4c86b7a2f23)
-
 ⚪ Kim Taehyung (V)
 
 Kim Tae-hyung, professionally recognized as V, is a South Korean vocalist and a part of the BTS boy band. Since joining the group in 2013, V has released three solo tracks as part of BTS "Stigma" in 2016, "Singularity" in 2018, and "Inner Child" in 2020—all of which achieved chart success on South Korea's Gaon Digital Chart.
 
-📌 For face recognition of famous fast food consumers, codes with an image file name "Lebron_James.jpg" are used to recognize faces.
+📌 For face recognition of famous fast food consumers, codes with an image file name "V.jpg" are used to recognize faces.
 
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/8b03552f-90d9-4df9-8df8-4e9b6592b330)
+![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/9bdf1a04-daf0-46ba-b7a7-776c670db6a4)
 
 ⚪ Park Jimin
 
 Park Ji-min, is a renowned South Korean singer and dancer known by his stage name, Jimin. He holds the roles of lead vocalist and dancer in the widely acclaimed global music sensation BTS. Initially excelling as a top student in Busan High School's modern dance department, Jimin's path shifted when a teacher suggested he audition for an entertainment company. Signing with Big Hit Entertainment, he made his debut in 2013 as a member of the South Korean boy band BTS.
 
-📌 For face recognition of famous fast food consumers, codes with an image file name "Barack_Obama.jpg" are used to recognize faces.
+📌 For face recognition of famous fast food consumers, codes with an image file name "Jimin.jpg" are used to recognize faces.
 
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/08724313-955c-4553-9e0a-6b211664397c)
+![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/6c790388-9f71-4278-8db5-1ed45e5f9305)
 
 ⚪ Suga
 
 SUGA, whose real name is Min Yoon-Gi, is recognized as a skilled rapper in the K-pop group BTS. Beyond his rap talents, he's also a proficient producer and songwriter. His achievements include winning the Best Producer award at MMA in 2017. Before attaining fame, he encountered numerous challenges and hardships. His life journey serves as an inspirational tale, showcasing his resilience and unwavering determination to pursue happiness, eventually realizing his dream and achieving success.
 
-📌 For face recognition of famous fast food consumers, codes with an image file name "Dwyane_Wade.jpg" are used to recognize faces.
+📌 For face recognition of famous fast food consumers, codes with an image file name "Suga.jpg" are used to recognize faces.
 
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/b530ab11-f989-4582-9910-1f8dc61198c4)
+![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/75cf77b5-8893-495e-a09e-81521c0ad3bf)
 
 ⚪ Jungkook
 
 Jeon Jeong-Guk, widely recognized as BTS Jungkook, is a versatile musician hailing from South Korea. Within the renowned group Bangtan Sonyeondan (BTS), he fulfills roles as the lead singer, dancer, and rapper. Since he entered BTS in 2013, Jungkook's impact has transcended South Korea, captivating audiences across Asia through his songs and music videos. Apart from his musical talents, he's celebrated for his appealing personality and striking appearance. Elements such as his distinctive long hair, tattoos, and eyebrow piercing have contributed to his status as a heartthrob, endearing him to numerous fans.
 
-📌 For face recognition of famous fast food consumers, codes with an image file name "Michael_Mosley.jpg" are used to recognize faces.
+📌 For face recognition of famous fast food consumers, codes with an image file name "Jung Kook.jpg" are used to recognize faces.
 
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/21d064d2-762b-4329-8a40-cd968ab53e83)
+![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/735a8806-bbe1-4c57-957a-7484039505af)
 
 ⚪ J-Hope
 
 Jung Ho-seok, known professionally as J-Hope, is a versatile South Korean artist excelling as a rapper, singer-songwriter, dancer, and record producer. His entry into the South Korean boy band BTS occurred in 2013 under Big Hit Entertainment. In 2018, J-Hope unveiled his inaugural solo mixtape titled "Hope World." Critically acclaimed, it reached noteworthy success by peaking at number 38 on the US Billboard 200, marking the highest chart position achieved by a solo Korean artist at that time.
 
-📌 For face recognition of famous fast food consumers, codes with an image file name "Peter_Andre.jpg" are used to recognize faces.
+📌 For face recognition of famous fast food consumers, codes with an image file name "J hope.jpg" are used to recognize faces.
 
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/d3a6008e-5b39-4307-819b-b7f49422ffec)
+![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/65ca9000-248d-4c94-ac14-aacdf2446992)
 
 ⚪ RM
 
 Kim Nam-joon, professionally known as RM, is a prominent South Korean rapper, songwriter, and record producer who leads the South Korean boy band BTS. In 2015, RM introduced his inaugural solo mixtape titled "RM," followed by his second mixtape, "Mono," in 2018. "Mono" made history by becoming the highest-charting album by a Korean solo artist in the United States, reaching number 26 on the Billboard 200. RM marked his official solo debut in 2022 with the launch of his studio album "Indigo," featuring collaborations with Erykah Badu and Anderson Paak. This album marked a significant milestone in his solo career.
 
-📌 For face recognition of famous fast food consumers, codes with an image file name "Hayley_Tamaddon.jpg" are used to recognize faces.
+📌 For face recognition of famous fast food consumers, codes with an image file name "RM.jpg" are used to recognize faces.
 
-![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/f5e14336-cee4-4893-9969-91d28c643c68)
+![image](https://github.com/harleybelz/GROUP_10_Finals_FaceRecognition/assets/144197127/cfb621e8-138b-4def-9d3a-a720f86078fa)
 
 
 # 🌭 FACE RECOGNITION OF UNKNOWN FAST FOOD CONSUMER
